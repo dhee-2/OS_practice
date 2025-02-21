@@ -18,7 +18,6 @@ ADD A B<br>
 STORE D<br>
 PRINT D<br>
 ![Image](https://github.com/user-attachments/assets/7ed93f29-3740-4452-a78a-d67be9758ddc)<br>
-
 ![Image](https://github.com/user-attachments/assets/fb95480e-981c-4720-b700-b492d8337ef8)<br>
 
 
@@ -45,5 +44,4 @@ SUB A C<br>
 STORE E<br>
 PRINT E<br>
 ![Image](https://github.com/user-attachments/assets/ba09a5eb-6a4e-4136-912d-1b7e51f074e3)<br>
-
 ![Image](https://github.com/user-attachments/assets/26a42518-db35-4229-9e9c-ee130f9bb808)
